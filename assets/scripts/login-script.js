@@ -59,5 +59,5 @@ loginFormElement.addEventListener('submit', function(event) {
  
   } else {
  
-    /* Comment : Namun jika tidak sesuai maka akan menampilkan informasi bahwa input salah. */
+    /*Comment : Namun jika tidak sesuai maka akan menampilkan informasi bahwa input salah. */
     showPopUp();
